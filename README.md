@@ -1,4 +1,4 @@
-# kumailhaidersadhyo76
+![logo](https://github.com/kumailhaidersadhayo76/kumailhaidersadhyo76/blob/main/Beige%20%26%20Black%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Kumail Haider Sadhayo</h1>
 <h3 align="center">A passionate frontend developer and cyber security from hyderabad</h3>
 <img align='right' alt='coding' width='600' src='https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif'>
